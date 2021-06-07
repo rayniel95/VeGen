@@ -22,8 +22,8 @@ See in this repository:
 
 # How to execute
 
-1. Build image sudo docker build ./ -t rayniel95/vegen:v1.0
-2. Execute container sudo docker run -it rayniel95/vegen:v1.0 
+1. Build image `sudo docker build ./ -t rayniel95/vegen:v1.0`
+2. Execute container `sudo docker run -it rayniel95/vegen:v1.0` 
 
 # How to use
 
